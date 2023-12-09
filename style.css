@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(93, 209, 10);
+}
+p{
+    color: pink;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+ol{
+    color: green;
+}
+ul{
+    color: lime;
+}
+table {
+    border: 2px solid orangered;
+}
+td, th{
+    border: 2px solid orangered;
+}
